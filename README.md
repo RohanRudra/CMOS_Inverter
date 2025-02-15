@@ -1,8 +1,8 @@
 # CMOS Inverter
 
 ## [Project Overview](pplx://action/followup)
-This project demonstrates the design, simulation, and analysis of a CMOS inverter. It includes schematics, symbol representation, testbench setup, and voltage transfer characteristics (VTC) analysis.
-W1 (Width of PMOS = 2.48604 um) 
+This project demonstrates the design, simulation, and analysis of a CMOS inverter. It includes schematics, symbol representation, testbench setup, and voltage transfer characteristics (VTC) analysis.  
+ ### W1 (Width of PMOS = 2.48604 um) 
 
 ---
 
