@@ -12,7 +12,6 @@ This project demonstrates the design, simulation, and analysis of a CMOS inverte
   
   <img src="https://github.com/RohanRudra/CMOS_Inverter/blob/main/Plots/cmos.png" /> 
   This file shows the symbolic representation of the CMOS inverter with input (`Vin`), output (`Vout`), power supply (`Vdd`), and ground (`gnd`) connections.
-
   
 
 - **[Testbench](pplx://action/followup)**
@@ -27,12 +26,17 @@ This project demonstrates the design, simulation, and analysis of a CMOS inverte
   <img src="https://github.com/RohanRudra/CMOS_Inverter/blob/main/Plots/PMOS_NMOS_regions.jpg" /> 
   This plot highlights the operational regions of PMOS and NMOS transistors (cutoff, linear, saturation, and sub-threshold) in the CMOS inverter based on input voltage levels.
 
-  
 
 - **[Voltage Transfer Characteristics (VTC)](pplx://action/followup)**
   
   <img src="https://github.com/RohanRudra/CMOS_Inverter/blob/main/Plots/vtc_points.jpg" /> 
   The VTC curve of the CMOS inverter showing key points such as switching threshold and slope values. It provides insight into the inverter's behavior across different input voltages.
+
+
+- **[Static Power Analysis](pplx://action/followup)**
+  
+  <img src="https://github.com/RohanRudra/CMOS_Inverter/blob/main/Plots/static_power.png" /> 
+  The graph shows the static power analysis of a CMOS inverter, where the supply current (Idd) peaks at Vin = VDD/2 due to both PMOS and NMOS conducting simultaneously, leading to maximum static power dissipation.
 
 ---
 
